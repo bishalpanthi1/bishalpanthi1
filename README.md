@@ -1,16 +1,24 @@
-## Hi there 👋
+### 👋 Hi there, I'm Bishal Panthi
 
-<!--
-**bishalpanthi1/bishalpanthi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about building scalable backend systems, automating infrastructure, and solving real-world technical challenges.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+
+- 🖥️ **Languages:** Java | PHP | Python | Bash | SQL
+- ☁️ **DevOps / Infra:** Docker | Portainer | Jenkins | Proxmox | Grafana | Nexus | HAProxy | Apache | Nginx
+- 🧩 **Frameworks:** Spring Boot | Symfony | Flask | Dash
+- 💾 **Databases:** PostgreSQL | MySQL | MSSQL
+- 🔐 **Security:** SSL/TLS | SAML | OAuth2 | LemonLDAP::NG
+- 📦 **Versioning & CI/CD:** Git | GitLab | Maven | GitHub Actions
+
+---
+
+---
+
+### 📫 Get in Touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/panthibishal/)  
+- 📧 bishalpanthi1@gmail.com
+- 🌐 [bishalpanthi.com.np](http://bishalpanthi.com.np)
