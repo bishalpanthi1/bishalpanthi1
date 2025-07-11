@@ -8,7 +8,7 @@
 
 - 🖥️ **Languages:** Java | PHP | Python | Bash | SQL
 - ☁️ **DevOps / Infra:** Docker | Portainer | Jenkins | Proxmox | Grafana | Nexus | HAProxy | Apache | Nginx
-- 🧩 **Frameworks:** Spring Boot | Symfony | Flask | Dash
+- 🧩 **Frameworks:** Spring Boot | Flask | Dash
 - 💾 **Databases:** PostgreSQL | MySQL | MSSQL
 - 🔐 **Security:** SSL/TLS | SAML | OAuth2 | LemonLDAP::NG
 - 📦 **Versioning & CI/CD:** Git | GitLab | Maven | GitHub Actions
